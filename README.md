@@ -7,3 +7,6 @@ LORI is a mobile application through which the user is able to upload a picture 
 
 More details and images on <a href="http://www.kaylajklab.com/android-applications.html">my website</a> <br>
 Video demonstration available <a href="https://youtu.be/SKpCzAQI0P0">here</a>
+
+<br><br>
+<img src="https://www.kaylajklab.com/uploads/1/3/0/4/130464583/screenshot-20190626-104928-lori_orig.jpg"/>
